@@ -1,10 +1,5 @@
 import os
 import shutil
-
-def Help(func=None):
-    if func is None:
-        print('''CurrentDirectory()
-Возвращает текущую директорию
                  
 CreateDir(path)
 Создаёт директорию''')
