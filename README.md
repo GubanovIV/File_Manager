@@ -1,5 +1,5 @@
 # File_Manager
-Принимают на вход только path:
+Принимают на вход только path:/n
   'curdir':CurrentDirectory - выбрать текущую директорию
   'newdir':CreatrDir - создать директорию
   'rmdir':RemoveDir - удалить директорию
